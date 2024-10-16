@@ -11,3 +11,6 @@ giveplayer1ball:
     STA ballleft
     JSR GAMEENGINEDONE
 ```
+### A Task list for The TaskList App I will maybe create in the future:
+- [ ] Make Time Get by estimate for TaskList App
+- [ ] Make Everyday able to be edited With Tasks 
